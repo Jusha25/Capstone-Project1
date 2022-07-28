@@ -211,8 +211,8 @@ hr {
 
 .summit-photo2 {
   background-image:
-      linear-gradient(to right, rgba(151, 42, 22, 0.6), rgba(151, 42, 22, 0.6)),
-      url(images/meeting-2icon.jpg);
+    linear-gradient(to right, rgba(151, 42, 22, 0.6), rgba(151, 42, 22, 0.6)),
+    url(images/meeting-2icon.jpg);
 }
 
 .summit-photo1 h3 {
