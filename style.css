@@ -195,8 +195,8 @@ hr {
 .summit-photo1 {
   background-color: #972a16;
   background-image:
-          linear-gradient(to right, rgba(151, 42, 22, 0.6), rgba(151, 42, 22, 0.6)),
-      url(images/meeting-1icon.jpg);
+    linear-gradient(to right, rgba(151, 42, 22, 0.6), rgba(151, 42, 22, 0.6)),
+    url(images/meeting-1icon.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   height: 30vh;
@@ -211,7 +211,7 @@ hr {
 
 .summit-photo2 {
   background-image:
-          linear-gradient(to right, rgba(151, 42, 22, 0.6), rgba(151, 42, 22, 0.6)),
+      linear-gradient(to right, rgba(151, 42, 22, 0.6), rgba(151, 42, 22, 0.6)),
       url(images/meeting-2icon.jpg);
 }
 
