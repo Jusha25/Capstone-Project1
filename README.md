@@ -29,29 +29,28 @@ https://www.loom.com/share/0eb56ea032ed4024a6399809c37b71b1
 
 ## Authors
 
- Author1
+👤 Author1
 
- GitHub: https://github.com/Jusha25/ 
- Twitter: @shailisharma25/ 
- LinkedIn: @shailisharma25/
+GitHub: https://github.com/Jusha25/
+Twitter: @shailisharma25/
+LinkedIn: @shailisharma25/
 
- ## 🤝 Contributing
+## 🤝 Contributing
 
- Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
- ## Feel free to check the issues page
+## Feel free to check the issues page
 
- https://github.com/Jusha25/personal-portfolio/issues
+https://github.com/Jusha25/personal-portfolio/issues
 
- ## Show your support
+## Show your support
 
- Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!
 
- ## Acknowledgments
+## Acknowledgments
 
- Thanks to Microverse to help get to this milestone and @cindy shin for the design
+Thanks to Microverse to help get to this milestone and @cindy shin for the design
 
- ## 📝 License
+## 📝 License
 
- This project is MIT licensed.
-
+This project is MIT licensed.
