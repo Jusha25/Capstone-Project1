@@ -4,7 +4,8 @@ This is the capstone project from the first module of Microverse Program.This is
 
 ## Built With
 
-Html/Css
+Html
+Css
 Javascript
 Linters
 
